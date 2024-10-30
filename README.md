@@ -1,5 +1,11 @@
-## Hi there 👋
+## WELCOME 👋
+ 
+ as the main author of the [Tlabs Library](https://tlabs.tomorrowlabs.io/tlabs-lib.html)  
+ I am also working as a _Senior Software Architects_ on many other intersting software and IoT related things.
 
+ Here I am going to share some privately developed off topic projects.
+ _(stay tuned)_
+ 
 <!--
 **cjaeckel/cjaeckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
